@@ -1,0 +1,11 @@
+Devices using semiconductors, from computers to solar cells, have enjoyed tremendous efficiency improvements in the last few decades. Famously, one of the co-founders of Intel, Gordon Moore, observed that the number of transistors in an integrated circuit doubles about every two years -- and this 'Moore's law' held true for some time.
+
+In recent years, however, such gains have slowed as firms that attempt to engineer nano-scale transistors hit the limits of miniaturization at the atomic level.
+
+"With open quantum systems as the main research target of our lab, we were revisiting concepts that had been taken for granted and even appear in standard semiconductor physics textbooks such as the voltage drop in operating semiconductor devices," said the lead researcher Professor Yong-Hoon Kim. "Questioning how all these concepts could be understood and possibly revised at the nano-scale, it was clear that there was something incomplete about our current understanding."
+
+"And as the semiconductor chips are being scaled down to the atomic level, coming up with a better theory to describe semiconductor devices has become an urgent task."
+
+The current understanding states that semiconductors are materials that act like half-way houses between conductors, like copper or steel, and insulators, like rubber or Styrofoam. They sometimes conduct electricity, but not always. This makes them a great material for intentionally controlling the flow of current, which in turn is useful for constructing the simple on/off switches -- transistors -- that are the foundation of memory and logic devices in computers.
+
+In order to 'switch on' a semiconductor, a current or light source is applied, exciting an electron in an atom to jump from what is called a 'valence band,' which is filled with electrons, up to the 'conduction band,' which is originally unfilled or only partially filled with electrons. Electrons that have jumped up to the conduction band thanks to external stimuli and the remaining 'holes' are now able to move about and act as charge carriers to flow electric current.
